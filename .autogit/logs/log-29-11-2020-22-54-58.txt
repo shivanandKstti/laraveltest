@@ -1,0 +1,20 @@
+-------------------- Auto-Git Log --------------------
+		Tue Dec 29 2020 22:54:58 GMT+0530 (India Standard Time)
+------------------------------------------------------
+
+Modified files:
+* app/Models/User.php
+* routes/web.php
+
+
+Created files:
+* .autogit/autogit.json
+* app/Http/Controllers/UserController.php
+* app/Models/Address.php
+* database/migrations/2020_12_29_150308_create_addresses_table.php
+
+
+Deleted files:
+
+
+Renamed files:
